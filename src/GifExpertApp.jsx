@@ -33,7 +33,7 @@ const GifExpertApp = () => {
     <>
       {/* Titulo */}
       <div className="title">
-        <h1>GifExpertApp</h1>
+        <h1>GifyExpertApp</h1>
         <a href="https://linkedin.com/in/emanuel-valente">
           <span>by Emanuel Valente</span>
         </a>
