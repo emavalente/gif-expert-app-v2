@@ -2,7 +2,7 @@
 
 https://gify-expert-app.netlify.app/
 
-This is a Gif finder coded with React JS.
+This is a Gif finder coded with React JS from Fernando Herrera React course - https://fernando-herrera.com/#/.
 I used State Hooks, Custom Hook for http request, CSS vanilla for styles and react-toasted-library for the toast.
 I hava also used Figma for the presentation on picture.
 
