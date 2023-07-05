@@ -18,7 +18,7 @@ enjoy it!
 git clone (url)
 ```
 
-## Install Vite dependencies
+## Install dependencies
 
 ```
 npm install
